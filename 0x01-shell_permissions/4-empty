@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script creates an empty file named hello
+
+touch hello
